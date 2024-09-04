@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: >-
+  Bachelor-Thesis-Frequency-Based-Matching-of-Points-on-the-Two-Dimensional-Sphere
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Maximilian
+    family-names: Seifert
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.13684548
+  - type: url
+    value: >-
+      https://github.com/data507/Bachelor-Thesis-Frequency-Based-Matching-of-Points-on-the-Two-Dimensional-Sphere/tree/Release
